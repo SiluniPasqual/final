@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"BloodPressureMonitor","l":"BloodPressureRecord"},{"p":"BloodPressureMonitor","l":"BloodPressureTester"}];updateSearchResults();
